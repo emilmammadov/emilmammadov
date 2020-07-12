@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Android Developer](https://media.giphy.com/media/MZdpbWNErnZHVZCCaF/giphy.gif)
+![Android Developer](https://media.giphy.com/media/Tdj2z2Sl9emEvPKkAo/giphy.gif)
