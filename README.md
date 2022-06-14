@@ -5,7 +5,7 @@ Hi 👋 My name is Emil Mammadov
 Mobile Developer | Flutter | React Native
 -----------------------------------------
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm living in Istanbul
 * ✉️  You can contact me at [emilmammadov303@gmail.com](mailto:emilmammadov303@gmail.com)
 
 ### Skills
