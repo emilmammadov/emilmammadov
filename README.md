@@ -2,7 +2,7 @@
 Hi 👋 My name is Emil Mammadov
 ==============================
 
-Mobile Developer | Flutter | React Native
+Mobile Developer | Flutter
 -----------------------------------------
 
 * 🌍  Istanbul(GMT+3) & Baku (GMT+4)
